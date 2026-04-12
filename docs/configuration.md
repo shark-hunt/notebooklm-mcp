@@ -91,4 +91,3 @@ The server uses platform-specific paths via [env-paths](https://github.com/sindr
 - `chrome_profile_instances/` - Isolated Chrome profiles for concurrent sessions
 
 **No config.json file** - Configuration is purely via environment variables or tool parameters!
-
